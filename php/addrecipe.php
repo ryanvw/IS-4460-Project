@@ -19,8 +19,8 @@
 		<div class="collapse navbar-collapse" id="myNavbar">
 		<ul class="nav navbar-nav navbar-right">
 			<!--<li><a href="movie-details.php">DETAILS</a></li>-->
-			<li><a href="addrecipe.php">ADD MOVIE</a></li>
-			<li><a href="updaterecipe.php">EDIT</a></li>
+			<li><a href="addrecipe.php">Add New Recipe</a></li>
+			<li><a href="updaterecipe.php">Edit Recipe</a></li>
 			</ul>
 		</div>
 	</div>
@@ -54,6 +54,7 @@
 			  <p><input class="form-control" id="newRecipeCalories" placeholder="Estimated Calories" type="text" required></p>
 			  <p><input class="form-control" id="newRecipeIngredients" placeholder="Enter Ingredients" type="text" required></p>
 			  <p><input class="form-control" id="newRecipeDescription" placeholder="Recipe Description" type="text" required></p>
+				<p><input class="form-control" id="newRecipeDescription" placeholder="Recipe Added By" type="text" required></p>
 			</div>
 		  </div>      
 		</div>           

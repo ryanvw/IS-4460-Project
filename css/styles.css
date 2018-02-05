@@ -21,7 +21,7 @@ body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
       color: #818181;
-      background: transparent;
+      background: linear-gradient(lightgray, white);
       background-image:   
   }
   h2 {
@@ -47,7 +47,7 @@ body {
 	margin-right: 15px;
   }
   .jumbotron {
-      background-color: #818181;
+      background-color: transparent;
       color: #303030;
       padding: 20px 30px;
       font-family: Montserrat, sans-serif;

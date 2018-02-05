@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Star Wars: The Last Jedi - Details</title>
+		<title>Recipe Details</title>
 		
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		<link rel="stylesheet" href="../css/styles.css" > 
@@ -27,7 +27,7 @@
 </nav>
 
 	<div class="jumbotron text-center">
-		<h1>Movie Details</h1> 
+		<h1>Recipe Details</h1> 
 	</div>
 	
 	<div id="pricing" class="container-fluid">

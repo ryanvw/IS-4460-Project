@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Star Wars: The Last Jedi - Details</title>
+		<title>Update Recipe</title>
 		
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		<link rel="stylesheet" href="../css/styles.css" > 
@@ -13,12 +13,12 @@
 		<nav class="navbar navbar-default">
 			<div class="container-fluid">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="movie-list.php"><span class="glyphicon glyphicon-home"></span></a>
+			<a class="navbar-brand" href="recipelist.php"><span class="glyphicon glyphicon-home"></span></a>
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">
 		<ul class="nav navbar-nav navbar-right">
-			<li><a href="movie-details.php">DETAILS</a></li>
-			<li><a href="movie-add.php">ADD MOVIE</a></li>
+			<li><a href="recipedetails.php">Recipe Details</a></li>
+			<li><a href="addrecipe.php">Add New Recipe</a></li>
 			<!--<li><a href="movie-update.php">EDIT</a></li>-->
 			</ul>
 		</div>
@@ -26,7 +26,7 @@
 </nav>
 
 <div class="jumbotron text-center">
-		<h1>Update Movie</h1> 
+		<h1>Update Recipe</h1> 
 	</div>
 	
 	<div id="pricing" class="container-fluid">
@@ -34,7 +34,7 @@
 		<div class="col-sm-4 col-xs-12">
 		  <div class="panel panel-default text-center">
 			<div class="panel-body">
-				<img height = '433' width ='' src='../img/lastjedi.jpg'></img>
+				<img height = '433' width ='' src='../img/newrecipe.jpg'></img>
 			</div>
 		  </div>      
 		</div>     
