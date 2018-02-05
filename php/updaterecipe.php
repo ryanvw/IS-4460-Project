@@ -46,23 +46,22 @@
 			</div>
 			
 			<div class="panel-body">
-				<p>Cast<input class="form-control" id="newMovieCast" value = "Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega" type="text" required></p>
-				<p>Runtime<input class="form-control" id="newMovieRunTime" value="2h 32min" type="text" required></p>
-				<p>Genre<input class="form-control" id="newMovieGenre" value="Sci-Fi" type="text" required></p>
-			    <p>Description<input class="form-control" id="newMovieDescription" value="Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order." type="text" required></p>
-			    <p>Year Released<input class="form-control" id="newMovieYear" value="2017" type="text" required></p>
-			    <p>Director<input class="form-control" id="newMovieDirector" value="Rian Johnson" type="text" required></p>
+				<p>Category<input class="form-control" id="newRecipeCategory" value = "Chicken" type="text" required></p>
+				<p>Calories<input class="form-control" id="newRecipeCalories" value="550" type="text" required></p>
+				<p>Ingredients<input class="form-control" id="newRecipeIngredients" value="2 Cups: Chicken, 2 TBSP: garlic, 1tsp: Chives" type="text" required></p>
+			  <p>Description<input class="form-control" id="newRecipeDescription" value="Delicious take on a classic chicken recipe!" type="text" required></p>
+			  <p>Uploader<input class="form-control" id="newRecipeUploader" value="Ryan" type="text" required></p>
 			</div>
 		  </div>      
 		</div>           
 	  </div>
 	  <div class="row" align="right">
-		<a href= "movie-list.php"><button type="button" class="btn btn-secondary">Submit Changes</button><button type="button" class="btn btn-secondary">Delete Movie</button></a>
+		<a href= "recipelist.php"><button type="button" class="btn btn-secondary">Submit Changes</button><button type="button" class="btn btn-secondary">Delete Recipe</button></a>
 	  </div>
 	</div>
 	
 	<footer class="container-fluid text-center">
-		<p>Property of UA Cinemas. All rights reserved</p>
+		<p>Property of Student Eats. All rights reserved</p>
 	</footer>
 	
 	</body>	

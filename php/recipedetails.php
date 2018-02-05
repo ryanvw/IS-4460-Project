@@ -62,7 +62,7 @@
 	
 	
 	<footer class="container-fluid text-center">
-		<p>Property of UA Cinemas. All rights reserved</p>
+		<p>Property of Student Eats. All rights reserved</p>
 	</footer>
 	
 	</body>	

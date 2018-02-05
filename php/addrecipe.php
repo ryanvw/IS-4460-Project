@@ -45,11 +45,12 @@
 		<div class="col-sm-8 col-xs-12">
 		  <div class="panel panel-default text-center">
 		  
-			<div class="panel-heading">
+			<!--<div class="panel-heading">
 				<input class="form-control" id="newRecipeTitle" placeholder="Recipe Name" type="text" required>
-			</div>
+			</div>-->
 			
-			<div class="panel-body">
+			<div class="panel-image">
+				<p><input class="form-control" id="newRecipeTitle" placeholder="What is the name of the recipe?" type="text" required></p>	
 			  <p><input class="form-control" id="newRecipeCategory" placeholder="What category does this recipe belong in?" type="text" required></p>
 			  <p><input class="form-control" id="newRecipeCalories" placeholder="Estimated Calories" type="text" required></p>
 			  <p><input class="form-control" id="newRecipeIngredients" placeholder="Enter Ingredients" type="text" required></p>
@@ -60,7 +61,7 @@
 		</div>           
 	  </div>
 	  <div class="row" align="right">
-		<a href= "movie-list.php"><button type="button" class="btn btn-secondary">Submit</button></a>
+		<a href= "recipelist.php"><button type="button" class="btn btn-secondary">Submit</button></a>
 	  </div>
 	</div>
 	
