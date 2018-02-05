@@ -42,7 +42,7 @@
 		  <div class="panel panel-default text-center">
 		  
 		  <div class="panel-heading">
-			<input class="form-control" id="newMovieTitle" value= 'Star Wars: The Last Jedi' type="text" required>
+			<input class="form-control" id="newRecipeTitle" value= 'Chicken' type="text" required>
 			</div>
 			
 			<div class="panel-body">
