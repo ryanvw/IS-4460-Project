@@ -1,21 +1,4 @@
 
-.bg {
-    position: fixed; 
-    top: -50%; 
-    left: -50%; 
-    width: 200%; 
-    height: 200%;
-  }
-  .bg img {
-    position: absolute; 
-    top: 0; 
-    left: 0; 
-    right: 0; 
-    bottom: 0; 
-    margin: auto; 
-    min-width: 50%;
-    min-height: 50%;
-  }
 
 body {
       font: 400 15px Lato, sans-serif;
@@ -152,6 +135,7 @@ body {
   }
   .panel-image {
       background-color: transparent;
+      border-radius: 25px;
   }
   .navbar {
       margin-bottom: 0;
@@ -168,8 +152,8 @@ body {
       color: #303030 !important;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
-      color: #3d3f3f !important;
-      background-color: #fff !important;
+      color: #fff !important;
+      background-color: #818181 !important;
   }
   .navbar-default .navbar-toggle {
       border-color: transparent;
@@ -178,7 +162,7 @@ body {
   footer .glyphicon {
       font-size: 20px;
       margin-bottom: 20px;
-      color: #818181;
+      color: #303030;
   }
   .slideanim {visibility:hidden;}
   .slide {
