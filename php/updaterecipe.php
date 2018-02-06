@@ -34,7 +34,7 @@
 		<div class="col-sm-4 col-xs-12">
 		  <div class="panel panel-default text-center">
 			<div class="panel-body">
-				<img height = '433' width ='' src='../img/newrecipe.jpg'></img>
+				<img height = '400' width ='' src='../img/newrecipe.jpg'></img>
 			</div>
 		  </div>      
 		</div>     

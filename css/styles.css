@@ -21,7 +21,7 @@ body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
       color: #818181;
-      background: linear-gradient(lightgray, white);
+      background: #eef1f3;
       background-image:   
   }
   h2 {
@@ -50,7 +50,7 @@ body {
       background-color: transparent;
       color: #303030;
       padding: 20px 30px;
-      font-family: Montserrat, sans-serif;
+      font-family: Helvetica, sans-serif;
   }
   .container-fluid {
       padding: 35px 35px;
@@ -155,17 +155,17 @@ body {
   }
   .navbar {
       margin-bottom: 0;
-      background-color: transparent;
+      background-color: white;
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
       line-height: 1.42857143 !important;
       letter-spacing: 4px;
       border-radius: 0;
-      font-family: Montserrat, sans-serif;
+      font-family: Helvetica, sans-serif;
   }
   .navbar li a, .navbar .navbar-brand {
-      color: #fff !important;
+      color: #303030 !important;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
       color: #3d3f3f !important;
