@@ -33,9 +33,9 @@
 	<div id="pricing" class="container-fluid">
 	  <div class="row">
 		<div class="col-sm-4 col-xs-12">
-		  <div class="panel panel-default text-center">
-			<div class="panel-body">
-				<img height = '400' width ='' src='../img/newrecipe.jpg'></img>
+		  <div class="panel panel-image text-center">
+			<div class="panel-image">
+				<img height = '400' width ='' src='../img/slideone.jpg'></img>
 			</div>
 		  </div>      
 		</div>     
