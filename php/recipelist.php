@@ -48,15 +48,19 @@
     <div class="carousel-inner" role="listbox">
       <div class="item active">
         <a href="recipedetails.php"><img src='../img/slideone.jpg' alt="image1"></a>
+        <h4>Garlic Roasted Chicken</h4>
       </div>
       <div class="item">
        <a href="recipedetails.php"><img src='../img/slidetwo.jpg' alt="image2"></a>
+       <h4>Grilled Tacos</h4>
       </div>
       <div class="item">
        <a href="recipedetails.php"><img src='../img/slidethree.jpg' alt="image3"></a>
+       <h4>Thin Crust Pizza</h4>
       </div>
 	  <div class="item">
        <a href="recipedetails.php"><img src='../img/slidefour.jpg' alt="image4"></a>
+       <h4>Homemade Mac and Cheese</h4>
       </div>
     </div>
   </div>

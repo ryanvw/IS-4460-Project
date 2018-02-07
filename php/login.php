@@ -19,8 +19,9 @@
 		<div class="collapse navbar-collapse" id="myNavbar">
 		<ul class="nav navbar-nav navbar-right">
 			<!--<li><a href="movie-details.php">DETAILS</a></li>-->
+            <li><a href="categories.php">Categories</a></li>
 			<li><a href="addrecipe.php">Add New Recipe</a></li>
-			<li><a href="updaterecipe.php">Edit Recipe</a></li>
+            <li><a href="login.php">Sign In</a></li>
 			</ul>
 		</div>
 	</div>

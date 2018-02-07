@@ -21,6 +21,7 @@
 			<!--<li><a href="movie-details.php">DETAILS</a></li>-->
 			<li><a href="addrecipe.php">Add New Recipe</a></li>
 			<li><a href="updaterecipe.php">Edit Recipe</a></li>
+			<li><a href="login.php">Sign In</a></li>
 			</ul>
 		</div>
 	</div>
@@ -43,12 +44,12 @@
 		  <div class="panel panel-default text-center">
 
 			<div class="panel-heading">
-			  <h1 id = 'recipeTitle'>Chicken</h1>
+			  <h1 id = 'recipeTitle'>Garlic Roasted Chicken</h1>
 			</div>
 			<div class="panel-body">
 			  <p id = 'recipeTitle'><strong>Category</strong><br>Chicken</p>
-			  <p id = 'movieCast'><strong>Calories</strong><br> 550</p>
-			  <p id = 'movieRunningTime'><strong>Ingredient</strong><br>2 Cups: Chicken, 2 TBSP garlic, 1tsp: Chives</p>
+			  <p id = 'recipeCalories'><strong>Calories</strong><br> 550</p>
+			  <p id = 'recipeIngredients'><strong>Ingredients</strong><br>2 Cups: Chicken, 2 TBSP garlic, 1tsp: Chives</p>
 			  <p><strong>Description:</strong><br>Delicious take on a classic chicken recipe!</p>
 			  <p><strong>Submitted By</strong><br> Ryan</p>
 			</div>

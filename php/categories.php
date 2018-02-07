@@ -85,7 +85,7 @@
           <h1>Beef</h1>
         </div>
         <div class="panel-body">
-        <img height = '275' width ='' src='../img/slidetwo.jpg'></img>
+        <img height = '275' width ='' src='../img/beef.jpg'></img>
         </div>
         <div class="panel-footer">
           <button class="btn btn-lg">View Recipes</button>
@@ -98,7 +98,7 @@
           <h1>Pork</h1>
         </div>
         <div class="panel-body">
-        <img height = '275' width ='' src='../img/slidethree.jpg'></img>
+        <img height = '275' width ='' src='../img/pork.jpg'></img>
         </div>
         <div class="panel-footer">
           <button class="btn btn-lg">View Recipes</button>
@@ -116,7 +116,7 @@
           <h1>Oriental</h1>
         </div>
         <div class="panel-body">
-        <img height = '275' width ='' src='../img/slideone.jpg'></img>
+        <img height = '275' width ='' src='../img/oriental.jpg'></img>
         </div>
         <div class="panel-footer">
           <button class="btn btn-lg">View Recipes</button>
@@ -139,10 +139,10 @@
     <div class="col-sm-4 col-xs-12">
       <div class="panel panel-default text-center">
         <div class="panel-heading">
-          <h1>Italian</h1>
+          <h1>Dessert</h1>
         </div>
         <div class="panel-body">
-        <img height = '275' width ='' src='../img/slidethree.jpg'></img>
+        <img height = '275' width ='' src='../img/dessert.jpg'></img>
         </div>
         <div class="panel-footer">
           <button class="btn btn-lg">View Recipes</button>
