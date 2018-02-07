@@ -41,11 +41,12 @@
 		<div class="col-sm-8 col-xs-12">
 		  <div class="panel panel-default text-center">
 		  
-		  <div class="panel-heading">
+		 <!-- <div class="panel-heading">
 			<input class="form-control" id="newRecipeTitle" value= 'Chicken' type="text" required>
-			</div>
+			</div>-->
 			
 			<div class="panel-body">
+				<p>Recipe Title<input class="form-control" id="newRecipeTitle" value = "Garlic Roasted Chicken" type="text required"></p>
 				<p>Category<input class="form-control" id="newRecipeCategory" value = "Chicken" type="text" required></p>
 				<p>Calories<input class="form-control" id="newRecipeCalories" value="550" type="text" required></p>
 				<p>Ingredients<input class="form-control" id="newRecipeIngredients" value="2 Cups: Chicken, 2 TBSP: garlic, 1tsp: Chives" type="text" required></p>

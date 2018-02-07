@@ -58,8 +58,8 @@
 	  <div class="item">
        <a href="recipedetails.php"><img src='../img/slidefour.jpg' alt="image4"></a>
       </div>
-      </div>
     </div>
+  </div>
 	
 	<!--Controls for slides -->
 	

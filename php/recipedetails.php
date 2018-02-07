@@ -56,7 +56,7 @@
 		</div>           
 	  </div>
 	  <div class="row" align="right">
-		<a href= "movie-update.php"><button type="button" class="btn btn-secondary">Update Recipe</button></a>
+		<a href= "updaterecipe.php"><button type="button" class="btn btn-secondary">Update Recipe</button></a>
 	  </div>
 	</div>
 	

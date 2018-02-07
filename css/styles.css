@@ -38,6 +38,9 @@ body {
   .container-fluid {
       padding: 35px 35px;
   }
+  .container-category {
+      background-color: transparent;
+  }
   .bg-grey {
       background-color: #818181;
   }
