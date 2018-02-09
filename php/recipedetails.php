@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Star Wars: The Last Jedi - Details</title>
+		<title>Recipe Details</title>
 		
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		<link rel="stylesheet" href="../css/styles.css" > 
@@ -21,13 +21,14 @@
 			<!--<li><a href="movie-details.php">DETAILS</a></li>-->
 			<li><a href="addrecipe.php">Add New Recipe</a></li>
 			<li><a href="updaterecipe.php">Edit Recipe</a></li>
+			<li><a href="login.php">Sign In</a></li>
 			</ul>
 		</div>
 	</div>
 </nav>
 
 	<div class="jumbotron text-center">
-		<h1>Movie Details</h1> 
+		<h1>Recipe Details</h1> 
 	</div>
 	
 	<div id="pricing" class="container-fluid">
@@ -43,12 +44,12 @@
 		  <div class="panel panel-default text-center">
 
 			<div class="panel-heading">
-			  <h1 id = 'recipeTitle'>Chicken</h1>
+			  <h1 id = 'recipeTitle'>Garlic Roasted Chicken</h1>
 			</div>
 			<div class="panel-body">
 			  <p id = 'recipeTitle'><strong>Category</strong><br>Chicken</p>
-			  <p id = 'movieCast'><strong>Calories</strong><br> 550</p>
-			  <p id = 'movieRunningTime'><strong>Ingredient</strong><br>2 Cups: Chicken, 2 TBSP garlic, 1tsp: Chives</p>
+			  <p id = 'recipeCalories'><strong>Calories</strong><br> 550</p>
+			  <p id = 'recipeIngredients'><strong>Ingredients</strong><br>2 Cups: Chicken, 2 TBSP garlic, 1tsp: Chives</p>
 			  <p><strong>Description:</strong><br>Delicious take on a classic chicken recipe!</p>
 			  <p><strong>Submitted By</strong><br> Ryan</p>
 			</div>
@@ -56,13 +57,13 @@
 		</div>           
 	  </div>
 	  <div class="row" align="right">
-		<a href= "movie-update.php"><button type="button" class="btn btn-secondary">Update Recipe</button></a>
+		<a href= "updaterecipe.php"><button type="button" class="btn btn-secondary">Update Recipe</button></a>
 	  </div>
 	</div>
 	
 	
 	<footer class="container-fluid text-center">
-		<p>Property of UA Cinemas. All rights reserved</p>
+		<p>Property of Student Eats. All rights reserved</p>
 	</footer>
 	
 	</body>	

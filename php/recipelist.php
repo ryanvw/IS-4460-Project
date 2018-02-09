@@ -19,9 +19,9 @@
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">
 		<ul class="nav navbar-nav navbar-right">
-			<!--<li><a href="movie-details.php">DETAILS</a></li>-->
+			<li><a href="categories.php">Categories</a></li>
 			<li><a href="addrecipe.php">Add New Recipe</a></li>
-			<li><a href="sign-in.php">Sign In</a></li>
+			<li><a href="login.php">Sign In</a></li>
 			</ul>
 		</div>
 	</div>
@@ -48,18 +48,22 @@
     <div class="carousel-inner" role="listbox">
       <div class="item active">
         <a href="recipedetails.php"><img src='../img/slideone.jpg' alt="image1"></a>
+        <h4>Garlic Roasted Chicken</h4>
       </div>
       <div class="item">
        <a href="recipedetails.php"><img src='../img/slidetwo.jpg' alt="image2"></a>
+       <h4>Grilled Tacos</h4>
       </div>
       <div class="item">
        <a href="recipedetails.php"><img src='../img/slidethree.jpg' alt="image3"></a>
+       <h4>Thin Crust Pizza</h4>
       </div>
 	  <div class="item">
        <a href="recipedetails.php"><img src='../img/slidefour.jpg' alt="image4"></a>
-      </div>
+       <h4>Homemade Mac and Cheese</h4>
       </div>
     </div>
+  </div>
 	
 	<!--Controls for slides -->
 	
